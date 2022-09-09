@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/C5287553/IdeaProjects/TestAutomationFramework/src/test/java/testcases/LoginTest.java">
+        <classes>
+            <class name="testcases.LoginTest">
+                <methods>
+                    <include name="Login_Test_Chrome"/>
+                    <include name="Login_Test_Edge"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

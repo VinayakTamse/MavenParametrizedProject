@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[https://www.facebook.com/]]>
+    </line>
+    <line>
+      <![CDATA[Facebook – log in or sign up]]>
+    </line>
+    <line>
+      <![CDATA[https://www.facebook.com/]]>
+    </line>
+    <line>
+      <![CDATA[Facebook – log in or sign up]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-09-09T17:34:52 IST" name="All Test Suite" finished-at="2022-09-09T17:35:04 IST" duration-ms="11732">
+    <groups>
+    </groups>
+    <test started-at="2022-09-09T17:34:52 IST" name="C:/Users/C5287553/IdeaProjects/TestAutomationFramework/src/test/java/testcases/FeatureTest.java" finished-at="2022-09-09T17:35:04 IST" duration-ms="11732">
+      <class name="testcases.FeatureTest">
+        <test-method signature="test_apps(java.lang.String,java.lang.String)[pri:0, instance:testcases.FeatureTest@d9345cd]" started-at="2022-09-09T17:34:52 IST" name="test_apps" finished-at="2022-09-09T17:35:04 IST" duration-ms="11687" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.facebook.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://www.facebook.com/]]>
+            </line>
+            <line>
+              <![CDATA[Facebook – log in or sign up]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_apps -->
+      </class> <!-- testcases.FeatureTest -->
+    </test> <!-- C:/Users/C5287553/IdeaProjects/TestAutomationFramework/src/test/java/testcases/FeatureTest.java -->
+  </suite> <!-- All Test Suite -->
+  <suite started-at="2022-09-09T17:35:04 IST" name="All Test Suite (0)" finished-at="2022-09-09T17:35:12 IST" duration-ms="8242">
+    <groups>
+    </groups>
+    <test started-at="2022-09-09T17:35:04 IST" name="C:/Users/C5287553/IdeaProjects/TestAutomationFramework/src/test/java/testcases/FeatureTest.java" finished-at="2022-09-09T17:35:12 IST" duration-ms="8242">
+      <class name="testcases.FeatureTest">
+        <test-method signature="test_apps(java.lang.String,java.lang.String)[pri:0, instance:testcases.FeatureTest@27406a17]" started-at="2022-09-09T17:35:04 IST" name="test_apps" finished-at="2022-09-09T17:35:12 IST" duration-ms="8239" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.facebook.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://www.facebook.com/]]>
+            </line>
+            <line>
+              <![CDATA[Facebook – log in or sign up]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_apps -->
+      </class> <!-- testcases.FeatureTest -->
+    </test> <!-- C:/Users/C5287553/IdeaProjects/TestAutomationFramework/src/test/java/testcases/FeatureTest.java -->
+  </suite> <!-- All Test Suite (0) -->
+</testng-results>

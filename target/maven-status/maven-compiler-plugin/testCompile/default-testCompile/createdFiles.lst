@@ -1,0 +1,8 @@
+Base\Utils.class
+testcases\LoginTest.class
+vin\browserfactory\BrowserFactory.class
+testcases\FeatureTest.class
+pages\LoginPage.class
+Base\AppInfo.class
+vin\browserfactory\BrowserFactory$SelBrowser.class
+Base\Base.class
